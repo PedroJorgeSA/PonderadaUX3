@@ -1,9 +1,5 @@
 # Teste de Funil — Cadastro de Novo Local
 
-**Plataforma:** SuzFogo — Sistema de Gestão de Incêndios Florestais  
-**Data:** Abril de 2026  
-**Módulo avaliado:** Cadastro de Locais (UPs, Fazendas e Núcleos)
-
 ---
 
 ## 1. Tela(s) Analisada(s)
