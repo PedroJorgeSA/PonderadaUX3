@@ -186,9 +186,3 @@ Ao final do teste, o usuário deve ser capaz de:
 | Associação com impacto | Verbaliza a relação entre cadastro correto e recomendações precisas | Trata o módulo como burocracia desconectada da operação prática |
 
 ---
-
-## Referências de Contexto
-
-- **Personas do projeto:** Entendimento UX — Módulo 5 — Inteli (2025)
-- **Contexto de negócio:** Entendimento de Negócio — Módulo 5 — Inteli (2026)
-- **Framework de teste:** Funil de Teste de Usabilidade (tarefa, conteúdo, visualização)
